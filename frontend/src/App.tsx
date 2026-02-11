@@ -71,6 +71,7 @@ function App() {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const loadConversationMessages = async (id: number) => {
     const res = await fetch(`${API_BASE}/api/conversations/${id}`);
     const data = await res.json();
