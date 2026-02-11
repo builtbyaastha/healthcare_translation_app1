@@ -1,0 +1,21 @@
+{
+  "name": "healthcare_translation_app1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builtbyaastha/healthcare_translation_app1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/builtbyaastha/healthcare_translation_app1/issues"
+  },
+  "homepage": "https://github.com/builtbyaastha/healthcare_translation_app1#readme"
+}
